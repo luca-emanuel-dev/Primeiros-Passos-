@@ -1,4 +1,4 @@
-emali_gerente = {"Iguatemi": "eulucaemanoel@gmail.com","Parangaba":"anajuribeiro0807","Benfica":"benfica@0344"}
+emali_gerente = {"Iguatemi": "eu@gmail.com","Parangaba":"ameliauribeiro0807","Benfica":"benfica@0344"}
 
 #pegar um item
 email = emali_gerente["Iguatemi"]
